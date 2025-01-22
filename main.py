@@ -7,5 +7,4 @@ def myfunction(input):
 	return input
 
 
-
-
+print(myfunction('Hello World'))
